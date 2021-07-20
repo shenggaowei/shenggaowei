@@ -1,4 +1,7 @@
-<div style="display: flex; justify-content: center; margin-top: 40px">
-  <img style="margin-right: 40px" src="assets/image/图片.gif" width="300" height="200" alt="图片描述文字"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=iswsg" width="400" height="200" alt="图片描述文字"/>
-</div>
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/iswsg/count.svg?" /><br>
+  Welcome to my github profile！(●'◡'●)
+</p>
+
+![github-stats](https://github-readme-stats.vercel.app/api?username=iswsg&show_icons=true&line_height=25&hide_title=true)![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iswsg&layout=compact)
